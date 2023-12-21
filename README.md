@@ -5,7 +5,6 @@ The lessons are best approached one after the other, as most lessons build on th
 
 If you have any problems or questions, you can [send an email to `lhcb-starterkit@cern.ch`](mailto:lhcb-starterkit@cern.ch).
 
-{% endprereq %}
 
 ```eval_rst
 .. toctree::
